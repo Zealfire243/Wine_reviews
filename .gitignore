@@ -2,10 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Data
+winemag-data-130k-v2.csv
+winemag-data-130k-v2.json
 
 # C extensions
 *.so
-
+winemag-data-130k-v2.csv
 # Distribution / packaging
 .Python
 build/
